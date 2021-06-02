@@ -28,7 +28,7 @@ with open('output/ImageLinks.txt', 'r') as file:
 primary_key = 1
 for user in emails:
     rand_list = []
-    [rand_list.append(random.randint(1, 56)) for i in range(random.randint(1, 5))]
+    [rand_list.append(random.randint(1, 55)) for i in range(random.randint(1, 5))]
 
     dataset.append({
         "model": "db.user",
