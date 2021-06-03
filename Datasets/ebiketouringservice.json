@@ -1,0 +1,282 @@
+[
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 1,
+        "fields": {
+            "provider": 9,
+            "max_group_size": 1,
+            "price_per_head": 457,
+            "additional_guests_price": 133
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 2,
+        "fields": {
+            "provider": 10,
+            "max_group_size": 1,
+            "price_per_head": 218,
+            "additional_guests_price": 161
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 3,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 4,
+            "price_per_head": 129,
+            "additional_guests_price": 199
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 4,
+        "fields": {
+            "provider": 17,
+            "max_group_size": 5,
+            "price_per_head": 338,
+            "additional_guests_price": 157
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 5,
+        "fields": {
+            "provider": 18,
+            "max_group_size": 5,
+            "price_per_head": 175,
+            "additional_guests_price": 108
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 6,
+        "fields": {
+            "provider": 22,
+            "max_group_size": 3,
+            "price_per_head": 147,
+            "additional_guests_price": 181
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 7,
+        "fields": {
+            "provider": 25,
+            "max_group_size": 2,
+            "price_per_head": 335,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 8,
+        "fields": {
+            "provider": 32,
+            "max_group_size": 5,
+            "price_per_head": 446,
+            "additional_guests_price": 163
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 9,
+        "fields": {
+            "provider": 38,
+            "max_group_size": 4,
+            "price_per_head": 224,
+            "additional_guests_price": 104
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 10,
+        "fields": {
+            "provider": 54,
+            "max_group_size": 5,
+            "price_per_head": 222,
+            "additional_guests_price": 126
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 11,
+        "fields": {
+            "provider": 56,
+            "max_group_size": 5,
+            "price_per_head": 230,
+            "additional_guests_price": 173
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 12,
+        "fields": {
+            "provider": 63,
+            "max_group_size": 4,
+            "price_per_head": 428,
+            "additional_guests_price": 132
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 13,
+        "fields": {
+            "provider": 71,
+            "max_group_size": 4,
+            "price_per_head": 450,
+            "additional_guests_price": 199
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 14,
+        "fields": {
+            "provider": 72,
+            "max_group_size": 4,
+            "price_per_head": 195,
+            "additional_guests_price": 117
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 15,
+        "fields": {
+            "provider": 73,
+            "max_group_size": 6,
+            "price_per_head": 321,
+            "additional_guests_price": 198
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 16,
+        "fields": {
+            "provider": 77,
+            "max_group_size": 2,
+            "price_per_head": 317,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 17,
+        "fields": {
+            "provider": 79,
+            "max_group_size": 3,
+            "price_per_head": 184,
+            "additional_guests_price": 133
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 18,
+        "fields": {
+            "provider": 83,
+            "max_group_size": 6,
+            "price_per_head": 447,
+            "additional_guests_price": 123
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 19,
+        "fields": {
+            "provider": 84,
+            "max_group_size": 2,
+            "price_per_head": 62,
+            "additional_guests_price": 191
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 20,
+        "fields": {
+            "provider": 91,
+            "max_group_size": 7,
+            "price_per_head": 212,
+            "additional_guests_price": 192
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 21,
+        "fields": {
+            "provider": 92,
+            "max_group_size": 3,
+            "price_per_head": 290,
+            "additional_guests_price": 123
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 22,
+        "fields": {
+            "provider": 96,
+            "max_group_size": 6,
+            "price_per_head": 280,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 23,
+        "fields": {
+            "provider": 98,
+            "max_group_size": 7,
+            "price_per_head": 301,
+            "additional_guests_price": 196
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 24,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 1,
+            "price_per_head": 329,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 25,
+        "fields": {
+            "provider": 107,
+            "max_group_size": 7,
+            "price_per_head": 191,
+            "additional_guests_price": 159
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 26,
+        "fields": {
+            "provider": 108,
+            "max_group_size": 3,
+            "price_per_head": 352,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 27,
+        "fields": {
+            "provider": 111,
+            "max_group_size": 4,
+            "price_per_head": 487,
+            "additional_guests_price": 129
+        }
+    },
+    {
+        "model": "db.ebiketouringservice",
+        "pk": 28,
+        "fields": {
+            "provider": 115,
+            "max_group_size": 2,
+            "price_per_head": 359,
+            "additional_guests_price": 156
+        }
+    }
+]

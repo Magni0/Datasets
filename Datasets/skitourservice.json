@@ -1,0 +1,322 @@
+[
+    {
+        "model": "db.skitourservice",
+        "pk": 1,
+        "fields": {
+            "provider": 7,
+            "max_group_size": 1,
+            "price_per_head": 368,
+            "additional_guests_price": 199
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 2,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 3,
+            "price_per_head": 173,
+            "additional_guests_price": 162
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 3,
+        "fields": {
+            "provider": 13,
+            "max_group_size": 4,
+            "price_per_head": 128,
+            "additional_guests_price": 167
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 4,
+        "fields": {
+            "provider": 17,
+            "max_group_size": 4,
+            "price_per_head": 282,
+            "additional_guests_price": 116
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 5,
+        "fields": {
+            "provider": 19,
+            "max_group_size": 1,
+            "price_per_head": 358,
+            "additional_guests_price": 137
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 6,
+        "fields": {
+            "provider": 22,
+            "max_group_size": 2,
+            "price_per_head": 366,
+            "additional_guests_price": 144
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 7,
+        "fields": {
+            "provider": 23,
+            "max_group_size": 4,
+            "price_per_head": 98,
+            "additional_guests_price": 170
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 8,
+        "fields": {
+            "provider": 25,
+            "max_group_size": 2,
+            "price_per_head": 190,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 9,
+        "fields": {
+            "provider": 26,
+            "max_group_size": 5,
+            "price_per_head": 380,
+            "additional_guests_price": 102
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 10,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 2,
+            "price_per_head": 433,
+            "additional_guests_price": 144
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 11,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 5,
+            "price_per_head": 376,
+            "additional_guests_price": 164
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 12,
+        "fields": {
+            "provider": 36,
+            "max_group_size": 7,
+            "price_per_head": 463,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 13,
+        "fields": {
+            "provider": 41,
+            "max_group_size": 2,
+            "price_per_head": 363,
+            "additional_guests_price": 151
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 14,
+        "fields": {
+            "provider": 46,
+            "max_group_size": 7,
+            "price_per_head": 217,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 15,
+        "fields": {
+            "provider": 47,
+            "max_group_size": 2,
+            "price_per_head": 76,
+            "additional_guests_price": 127
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 16,
+        "fields": {
+            "provider": 49,
+            "max_group_size": 4,
+            "price_per_head": 246,
+            "additional_guests_price": 158
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 17,
+        "fields": {
+            "provider": 60,
+            "max_group_size": 1,
+            "price_per_head": 160,
+            "additional_guests_price": 155
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 18,
+        "fields": {
+            "provider": 62,
+            "max_group_size": 1,
+            "price_per_head": 223,
+            "additional_guests_price": 158
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 19,
+        "fields": {
+            "provider": 70,
+            "max_group_size": 3,
+            "price_per_head": 111,
+            "additional_guests_price": 152
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 20,
+        "fields": {
+            "provider": 72,
+            "max_group_size": 5,
+            "price_per_head": 279,
+            "additional_guests_price": 151
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 21,
+        "fields": {
+            "provider": 77,
+            "max_group_size": 6,
+            "price_per_head": 116,
+            "additional_guests_price": 192
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 22,
+        "fields": {
+            "provider": 78,
+            "max_group_size": 5,
+            "price_per_head": 388,
+            "additional_guests_price": 150
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 23,
+        "fields": {
+            "provider": 84,
+            "max_group_size": 1,
+            "price_per_head": 368,
+            "additional_guests_price": 129
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 24,
+        "fields": {
+            "provider": 85,
+            "max_group_size": 2,
+            "price_per_head": 203,
+            "additional_guests_price": 176
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 25,
+        "fields": {
+            "provider": 92,
+            "max_group_size": 6,
+            "price_per_head": 296,
+            "additional_guests_price": 171
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 26,
+        "fields": {
+            "provider": 97,
+            "max_group_size": 1,
+            "price_per_head": 85,
+            "additional_guests_price": 114
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 27,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 4,
+            "price_per_head": 353,
+            "additional_guests_price": 171
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 28,
+        "fields": {
+            "provider": 108,
+            "max_group_size": 3,
+            "price_per_head": 485,
+            "additional_guests_price": 148
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 29,
+        "fields": {
+            "provider": 109,
+            "max_group_size": 3,
+            "price_per_head": 174,
+            "additional_guests_price": 131
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 30,
+        "fields": {
+            "provider": 112,
+            "max_group_size": 3,
+            "price_per_head": 322,
+            "additional_guests_price": 167
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 31,
+        "fields": {
+            "provider": 114,
+            "max_group_size": 5,
+            "price_per_head": 231,
+            "additional_guests_price": 105
+        }
+    },
+    {
+        "model": "db.skitourservice",
+        "pk": 32,
+        "fields": {
+            "provider": 120,
+            "max_group_size": 1,
+            "price_per_head": 118,
+            "additional_guests_price": 138
+        }
+    }
+]
