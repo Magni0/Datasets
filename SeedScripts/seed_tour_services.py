@@ -90,17 +90,17 @@ for hikingservice in providers:
 
         num += 1
 
-with open("Datasets/skitourservice.json", "w") as file:
+with open("Datasets/18_skitourservice.json", "w") as file:
     file.write(dumps(ski_tour_service_dataset))
 
-with open("Datasets/snowboardtourservice.json", "w") as file:
+with open("Datasets/19_snowboardtourservice.json", "w") as file:
     file.write(dumps(snowboard_tour_service_dataset))
 
-with open("Datasets/walkingtourservice.json", "w") as file:
+with open("Datasets/20_walkingtourservice.json", "w") as file:
     file.write(dumps(walking_tour_service_dataset))
 
-with open("Datasets/ebiketouringservice.json", "w") as file:
+with open("Datasets/16_ebiketouringservice.json", "w") as file:
     file.write(dumps(ebike_touring_service_dataset))
 
-with open("Datasets/hikingservice.json", "w") as file:
+with open("Datasets/17_hikingservice.json", "w") as file:
     file.write(dumps(hiking_service_dataset))

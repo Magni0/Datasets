@@ -1,0 +1,262 @@
+[
+    {
+        "model": "db.bikeridingservice",
+        "pk": 1,
+        "fields": {
+            "provider": 1,
+            "max_group_size": 6,
+            "price_per_head": 218,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 2,
+        "fields": {
+            "provider": 6,
+            "max_group_size": 1,
+            "price_per_head": 221,
+            "additional_guests_price": 118
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 3,
+        "fields": {
+            "provider": 9,
+            "max_group_size": 7,
+            "price_per_head": 427,
+            "additional_guests_price": 173
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 4,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 6,
+            "price_per_head": 102,
+            "additional_guests_price": 194
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 5,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 1,
+            "price_per_head": 110,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 6,
+        "fields": {
+            "provider": 17,
+            "max_group_size": 7,
+            "price_per_head": 488,
+            "additional_guests_price": 108
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 7,
+        "fields": {
+            "provider": 22,
+            "max_group_size": 4,
+            "price_per_head": 342,
+            "additional_guests_price": 128
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 8,
+        "fields": {
+            "provider": 26,
+            "max_group_size": 6,
+            "price_per_head": 441,
+            "additional_guests_price": 181
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 9,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 2,
+            "price_per_head": 231,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 10,
+        "fields": {
+            "provider": 30,
+            "max_group_size": 6,
+            "price_per_head": 304,
+            "additional_guests_price": 162
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 11,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 3,
+            "price_per_head": 449,
+            "additional_guests_price": 149
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 12,
+        "fields": {
+            "provider": 34,
+            "max_group_size": 1,
+            "price_per_head": 445,
+            "additional_guests_price": 186
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 13,
+        "fields": {
+            "provider": 35,
+            "max_group_size": 4,
+            "price_per_head": 109,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 14,
+        "fields": {
+            "provider": 36,
+            "max_group_size": 4,
+            "price_per_head": 241,
+            "additional_guests_price": 169
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 15,
+        "fields": {
+            "provider": 37,
+            "max_group_size": 6,
+            "price_per_head": 442,
+            "additional_guests_price": 187
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 16,
+        "fields": {
+            "provider": 47,
+            "max_group_size": 7,
+            "price_per_head": 323,
+            "additional_guests_price": 128
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 17,
+        "fields": {
+            "provider": 51,
+            "max_group_size": 4,
+            "price_per_head": 443,
+            "additional_guests_price": 174
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 18,
+        "fields": {
+            "provider": 65,
+            "max_group_size": 6,
+            "price_per_head": 400,
+            "additional_guests_price": 166
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 19,
+        "fields": {
+            "provider": 70,
+            "max_group_size": 3,
+            "price_per_head": 311,
+            "additional_guests_price": 193
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 20,
+        "fields": {
+            "provider": 77,
+            "max_group_size": 6,
+            "price_per_head": 136,
+            "additional_guests_price": 125
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 21,
+        "fields": {
+            "provider": 80,
+            "max_group_size": 7,
+            "price_per_head": 445,
+            "additional_guests_price": 161
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 22,
+        "fields": {
+            "provider": 81,
+            "max_group_size": 2,
+            "price_per_head": 358,
+            "additional_guests_price": 152
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 23,
+        "fields": {
+            "provider": 85,
+            "max_group_size": 4,
+            "price_per_head": 129,
+            "additional_guests_price": 127
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 24,
+        "fields": {
+            "provider": 94,
+            "max_group_size": 1,
+            "price_per_head": 439,
+            "additional_guests_price": 189
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 25,
+        "fields": {
+            "provider": 95,
+            "max_group_size": 2,
+            "price_per_head": 140,
+            "additional_guests_price": 145
+        }
+    },
+    {
+        "model": "db.bikeridingservice",
+        "pk": 26,
+        "fields": {
+            "provider": 116,
+            "max_group_size": 4,
+            "price_per_head": 473,
+            "additional_guests_price": 119
+        }
+    }
+]
