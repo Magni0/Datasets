@@ -1,0 +1,32 @@
+[
+    {
+        "model": "db.reviewrating",
+        "pk": 1,
+        "fields": {
+            "order_id": 1,
+            "reviewer_id": 13,
+            "reviewee_id": 59,
+            "review_content": "Chance star page when speech realize.",
+            "is_published": true,
+            "friendliness_rating": 6,
+            "local_expertise_rating": 4,
+            "communication_rating": 6,
+            "value_rating": 16
+        }
+    },
+    {
+        "model": "db.reviewrating",
+        "pk": 2,
+        "fields": {
+            "order_id": 2,
+            "reviewer_id": 25,
+            "reviewee_id": 62,
+            "review_content": "Participant source play option.",
+            "is_published": true,
+            "friendliness_rating": 5,
+            "local_expertise_rating": 2,
+            "communication_rating": 7,
+            "value_rating": 14
+        }
+    }
+]

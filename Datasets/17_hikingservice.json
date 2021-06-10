@@ -1,0 +1,402 @@
+[
+    {
+        "model": "db.hikingservice",
+        "pk": 1,
+        "fields": {
+            "provider": 1,
+            "max_group_size": 6,
+            "price_per_head": 113,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 2,
+        "fields": {
+            "provider": 2,
+            "max_group_size": 4,
+            "price_per_head": 486,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 3,
+        "fields": {
+            "provider": 6,
+            "max_group_size": 7,
+            "price_per_head": 456,
+            "additional_guests_price": 103
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 4,
+        "fields": {
+            "provider": 8,
+            "max_group_size": 3,
+            "price_per_head": 466,
+            "additional_guests_price": 185
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 5,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 7,
+            "price_per_head": 381,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 6,
+        "fields": {
+            "provider": 19,
+            "max_group_size": 6,
+            "price_per_head": 472,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 7,
+        "fields": {
+            "provider": 24,
+            "max_group_size": 6,
+            "price_per_head": 346,
+            "additional_guests_price": 198
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 8,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 2,
+            "price_per_head": 211,
+            "additional_guests_price": 132
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 9,
+        "fields": {
+            "provider": 28,
+            "max_group_size": 6,
+            "price_per_head": 445,
+            "additional_guests_price": 127
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 10,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 3,
+            "price_per_head": 489,
+            "additional_guests_price": 180
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 11,
+        "fields": {
+            "provider": 36,
+            "max_group_size": 1,
+            "price_per_head": 494,
+            "additional_guests_price": 195
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 12,
+        "fields": {
+            "provider": 37,
+            "max_group_size": 2,
+            "price_per_head": 120,
+            "additional_guests_price": 113
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 13,
+        "fields": {
+            "provider": 38,
+            "max_group_size": 1,
+            "price_per_head": 378,
+            "additional_guests_price": 146
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 14,
+        "fields": {
+            "provider": 39,
+            "max_group_size": 4,
+            "price_per_head": 124,
+            "additional_guests_price": 167
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 15,
+        "fields": {
+            "provider": 46,
+            "max_group_size": 4,
+            "price_per_head": 465,
+            "additional_guests_price": 174
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 16,
+        "fields": {
+            "provider": 47,
+            "max_group_size": 4,
+            "price_per_head": 188,
+            "additional_guests_price": 163
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 17,
+        "fields": {
+            "provider": 50,
+            "max_group_size": 3,
+            "price_per_head": 253,
+            "additional_guests_price": 193
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 18,
+        "fields": {
+            "provider": 51,
+            "max_group_size": 7,
+            "price_per_head": 499,
+            "additional_guests_price": 186
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 19,
+        "fields": {
+            "provider": 52,
+            "max_group_size": 2,
+            "price_per_head": 83,
+            "additional_guests_price": 190
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 20,
+        "fields": {
+            "provider": 57,
+            "max_group_size": 2,
+            "price_per_head": 379,
+            "additional_guests_price": 129
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 21,
+        "fields": {
+            "provider": 59,
+            "max_group_size": 6,
+            "price_per_head": 115,
+            "additional_guests_price": 169
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 22,
+        "fields": {
+            "provider": 61,
+            "max_group_size": 6,
+            "price_per_head": 464,
+            "additional_guests_price": 137
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 23,
+        "fields": {
+            "provider": 67,
+            "max_group_size": 6,
+            "price_per_head": 461,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 24,
+        "fields": {
+            "provider": 68,
+            "max_group_size": 3,
+            "price_per_head": 333,
+            "additional_guests_price": 109
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 25,
+        "fields": {
+            "provider": 69,
+            "max_group_size": 1,
+            "price_per_head": 497,
+            "additional_guests_price": 126
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 26,
+        "fields": {
+            "provider": 70,
+            "max_group_size": 2,
+            "price_per_head": 375,
+            "additional_guests_price": 154
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 27,
+        "fields": {
+            "provider": 72,
+            "max_group_size": 6,
+            "price_per_head": 211,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 28,
+        "fields": {
+            "provider": 76,
+            "max_group_size": 1,
+            "price_per_head": 52,
+            "additional_guests_price": 148
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 29,
+        "fields": {
+            "provider": 79,
+            "max_group_size": 5,
+            "price_per_head": 341,
+            "additional_guests_price": 160
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 30,
+        "fields": {
+            "provider": 84,
+            "max_group_size": 2,
+            "price_per_head": 327,
+            "additional_guests_price": 132
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 31,
+        "fields": {
+            "provider": 87,
+            "max_group_size": 1,
+            "price_per_head": 423,
+            "additional_guests_price": 160
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 32,
+        "fields": {
+            "provider": 89,
+            "max_group_size": 1,
+            "price_per_head": 375,
+            "additional_guests_price": 149
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 33,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 7,
+            "price_per_head": 283,
+            "additional_guests_price": 119
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 34,
+        "fields": {
+            "provider": 100,
+            "max_group_size": 2,
+            "price_per_head": 127,
+            "additional_guests_price": 118
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 35,
+        "fields": {
+            "provider": 102,
+            "max_group_size": 1,
+            "price_per_head": 146,
+            "additional_guests_price": 147
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 36,
+        "fields": {
+            "provider": 104,
+            "max_group_size": 5,
+            "price_per_head": 260,
+            "additional_guests_price": 143
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 37,
+        "fields": {
+            "provider": 105,
+            "max_group_size": 5,
+            "price_per_head": 169,
+            "additional_guests_price": 162
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 38,
+        "fields": {
+            "provider": 107,
+            "max_group_size": 4,
+            "price_per_head": 191,
+            "additional_guests_price": 113
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 39,
+        "fields": {
+            "provider": 118,
+            "max_group_size": 1,
+            "price_per_head": 442,
+            "additional_guests_price": 116
+        }
+    },
+    {
+        "model": "db.hikingservice",
+        "pk": 40,
+        "fields": {
+            "provider": 119,
+            "max_group_size": 1,
+            "price_per_head": 156,
+            "additional_guests_price": 175
+        }
+    }
+]

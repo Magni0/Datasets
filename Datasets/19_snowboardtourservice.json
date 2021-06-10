@@ -1,0 +1,322 @@
+[
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 1,
+        "fields": {
+            "provider": 6,
+            "max_group_size": 6,
+            "price_per_head": 396,
+            "additional_guests_price": 118
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 2,
+        "fields": {
+            "provider": 7,
+            "max_group_size": 6,
+            "price_per_head": 424,
+            "additional_guests_price": 136
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 3,
+        "fields": {
+            "provider": 9,
+            "max_group_size": 1,
+            "price_per_head": 168,
+            "additional_guests_price": 162
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 4,
+        "fields": {
+            "provider": 10,
+            "max_group_size": 3,
+            "price_per_head": 260,
+            "additional_guests_price": 187
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 5,
+        "fields": {
+            "provider": 12,
+            "max_group_size": 2,
+            "price_per_head": 349,
+            "additional_guests_price": 154
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 6,
+        "fields": {
+            "provider": 13,
+            "max_group_size": 4,
+            "price_per_head": 136,
+            "additional_guests_price": 181
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 7,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 4,
+            "price_per_head": 211,
+            "additional_guests_price": 173
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 8,
+        "fields": {
+            "provider": 26,
+            "max_group_size": 6,
+            "price_per_head": 417,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 9,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 6,
+            "price_per_head": 197,
+            "additional_guests_price": 149
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 10,
+        "fields": {
+            "provider": 28,
+            "max_group_size": 1,
+            "price_per_head": 341,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 11,
+        "fields": {
+            "provider": 33,
+            "max_group_size": 3,
+            "price_per_head": 468,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 12,
+        "fields": {
+            "provider": 35,
+            "max_group_size": 2,
+            "price_per_head": 474,
+            "additional_guests_price": 115
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 13,
+        "fields": {
+            "provider": 38,
+            "max_group_size": 4,
+            "price_per_head": 76,
+            "additional_guests_price": 146
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 14,
+        "fields": {
+            "provider": 43,
+            "max_group_size": 7,
+            "price_per_head": 413,
+            "additional_guests_price": 185
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 15,
+        "fields": {
+            "provider": 47,
+            "max_group_size": 7,
+            "price_per_head": 150,
+            "additional_guests_price": 123
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 16,
+        "fields": {
+            "provider": 51,
+            "max_group_size": 5,
+            "price_per_head": 375,
+            "additional_guests_price": 108
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 17,
+        "fields": {
+            "provider": 52,
+            "max_group_size": 5,
+            "price_per_head": 406,
+            "additional_guests_price": 169
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 18,
+        "fields": {
+            "provider": 61,
+            "max_group_size": 1,
+            "price_per_head": 247,
+            "additional_guests_price": 157
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 19,
+        "fields": {
+            "provider": 62,
+            "max_group_size": 4,
+            "price_per_head": 302,
+            "additional_guests_price": 100
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 20,
+        "fields": {
+            "provider": 81,
+            "max_group_size": 7,
+            "price_per_head": 352,
+            "additional_guests_price": 168
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 21,
+        "fields": {
+            "provider": 84,
+            "max_group_size": 1,
+            "price_per_head": 243,
+            "additional_guests_price": 113
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 22,
+        "fields": {
+            "provider": 86,
+            "max_group_size": 6,
+            "price_per_head": 490,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 23,
+        "fields": {
+            "provider": 89,
+            "max_group_size": 7,
+            "price_per_head": 193,
+            "additional_guests_price": 157
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 24,
+        "fields": {
+            "provider": 92,
+            "max_group_size": 6,
+            "price_per_head": 304,
+            "additional_guests_price": 147
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 25,
+        "fields": {
+            "provider": 95,
+            "max_group_size": 5,
+            "price_per_head": 404,
+            "additional_guests_price": 184
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 26,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 4,
+            "price_per_head": 436,
+            "additional_guests_price": 103
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 27,
+        "fields": {
+            "provider": 102,
+            "max_group_size": 2,
+            "price_per_head": 337,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 28,
+        "fields": {
+            "provider": 104,
+            "max_group_size": 3,
+            "price_per_head": 296,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 29,
+        "fields": {
+            "provider": 105,
+            "max_group_size": 7,
+            "price_per_head": 99,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 30,
+        "fields": {
+            "provider": 107,
+            "max_group_size": 5,
+            "price_per_head": 491,
+            "additional_guests_price": 125
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 31,
+        "fields": {
+            "provider": 110,
+            "max_group_size": 4,
+            "price_per_head": 248,
+            "additional_guests_price": 151
+        }
+    },
+    {
+        "model": "db.snowboardtourservice",
+        "pk": 32,
+        "fields": {
+            "provider": 117,
+            "max_group_size": 3,
+            "price_per_head": 252,
+            "additional_guests_price": 198
+        }
+    }
+]

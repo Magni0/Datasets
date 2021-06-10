@@ -12,7 +12,7 @@ with open("Datasets/providers.json", "r") as file:
 
 num = 1
 for service in providers:
-    if randint(1, 4) == 1:
+    if 10 in service['fields']['services']:
         ski_backcountry_service_dataset.append({
             "model": "db.skibackcountryservice",
             "pk": num,
@@ -28,7 +28,7 @@ for service in providers:
 
 num = 1
 for service in providers:
-    if randint(1, 4) == 1:
+    if 11 in service['fields']['services']:
         snowboarding_backcountry_service_dataset.append({
             "model": "db.snowboardingbackcountryservice",
             "pk": num,
@@ -44,7 +44,7 @@ for service in providers:
 
 num = 1
 for service in providers:
-    if randint(1, 4) == 1:
+    if 12 in service['fields']['services']:
         snowshoeing_service_dataset.append({
             "model": "db.snowshoeingservice",
             "pk": num,
@@ -60,7 +60,7 @@ for service in providers:
 
 num = 1
 for service in providers:
-    if randint(1, 4) == 1:
+    if 13 in service['fields']['services']:
         snowmobiling_service_dataset.append({
             "model": "db.snowmobilingservice",
             "pk": num,
@@ -76,7 +76,7 @@ for service in providers:
 
 num = 1
 for service in providers:
-    if randint(1, 4) == 1:
+    if 14 in service['fields']['services']:
         bikeriding_service_dataset.append({
             "model": "db.bikeridingservice",
             "pk": num,

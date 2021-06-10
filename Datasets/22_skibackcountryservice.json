@@ -1,0 +1,342 @@
+[
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 1,
+        "fields": {
+            "provider": 1,
+            "max_group_size": 6,
+            "price_per_head": 296,
+            "additional_guests_price": 194
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 2,
+        "fields": {
+            "provider": 4,
+            "max_group_size": 1,
+            "price_per_head": 477,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 3,
+        "fields": {
+            "provider": 6,
+            "max_group_size": 7,
+            "price_per_head": 357,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 4,
+        "fields": {
+            "provider": 12,
+            "max_group_size": 6,
+            "price_per_head": 497,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 5,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 4,
+            "price_per_head": 91,
+            "additional_guests_price": 109
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 6,
+        "fields": {
+            "provider": 16,
+            "max_group_size": 1,
+            "price_per_head": 324,
+            "additional_guests_price": 170
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 7,
+        "fields": {
+            "provider": 17,
+            "max_group_size": 6,
+            "price_per_head": 354,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 8,
+        "fields": {
+            "provider": 18,
+            "max_group_size": 6,
+            "price_per_head": 310,
+            "additional_guests_price": 189
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 9,
+        "fields": {
+            "provider": 22,
+            "max_group_size": 3,
+            "price_per_head": 155,
+            "additional_guests_price": 139
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 10,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 7,
+            "price_per_head": 395,
+            "additional_guests_price": 152
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 11,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 7,
+            "price_per_head": 220,
+            "additional_guests_price": 158
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 12,
+        "fields": {
+            "provider": 33,
+            "max_group_size": 5,
+            "price_per_head": 446,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 13,
+        "fields": {
+            "provider": 37,
+            "max_group_size": 2,
+            "price_per_head": 109,
+            "additional_guests_price": 163
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 14,
+        "fields": {
+            "provider": 43,
+            "max_group_size": 2,
+            "price_per_head": 257,
+            "additional_guests_price": 181
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 15,
+        "fields": {
+            "provider": 44,
+            "max_group_size": 2,
+            "price_per_head": 267,
+            "additional_guests_price": 111
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 16,
+        "fields": {
+            "provider": 45,
+            "max_group_size": 3,
+            "price_per_head": 188,
+            "additional_guests_price": 136
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 17,
+        "fields": {
+            "provider": 49,
+            "max_group_size": 3,
+            "price_per_head": 381,
+            "additional_guests_price": 190
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 18,
+        "fields": {
+            "provider": 52,
+            "max_group_size": 6,
+            "price_per_head": 145,
+            "additional_guests_price": 139
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 19,
+        "fields": {
+            "provider": 53,
+            "max_group_size": 5,
+            "price_per_head": 138,
+            "additional_guests_price": 139
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 20,
+        "fields": {
+            "provider": 57,
+            "max_group_size": 6,
+            "price_per_head": 186,
+            "additional_guests_price": 193
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 21,
+        "fields": {
+            "provider": 58,
+            "max_group_size": 5,
+            "price_per_head": 199,
+            "additional_guests_price": 144
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 22,
+        "fields": {
+            "provider": 70,
+            "max_group_size": 6,
+            "price_per_head": 291,
+            "additional_guests_price": 145
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 23,
+        "fields": {
+            "provider": 72,
+            "max_group_size": 7,
+            "price_per_head": 307,
+            "additional_guests_price": 166
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 24,
+        "fields": {
+            "provider": 75,
+            "max_group_size": 4,
+            "price_per_head": 341,
+            "additional_guests_price": 121
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 25,
+        "fields": {
+            "provider": 77,
+            "max_group_size": 4,
+            "price_per_head": 399,
+            "additional_guests_price": 189
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 26,
+        "fields": {
+            "provider": 78,
+            "max_group_size": 7,
+            "price_per_head": 236,
+            "additional_guests_price": 183
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 27,
+        "fields": {
+            "provider": 87,
+            "max_group_size": 1,
+            "price_per_head": 478,
+            "additional_guests_price": 123
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 28,
+        "fields": {
+            "provider": 88,
+            "max_group_size": 7,
+            "price_per_head": 444,
+            "additional_guests_price": 186
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 29,
+        "fields": {
+            "provider": 93,
+            "max_group_size": 4,
+            "price_per_head": 107,
+            "additional_guests_price": 187
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 30,
+        "fields": {
+            "provider": 96,
+            "max_group_size": 4,
+            "price_per_head": 451,
+            "additional_guests_price": 107
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 31,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 6,
+            "price_per_head": 298,
+            "additional_guests_price": 110
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 32,
+        "fields": {
+            "provider": 104,
+            "max_group_size": 3,
+            "price_per_head": 206,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 33,
+        "fields": {
+            "provider": 110,
+            "max_group_size": 1,
+            "price_per_head": 75,
+            "additional_guests_price": 137
+        }
+    },
+    {
+        "model": "db.skibackcountryservice",
+        "pk": 34,
+        "fields": {
+            "provider": 119,
+            "max_group_size": 4,
+            "price_per_head": 308,
+            "additional_guests_price": 149
+        }
+    }
+]

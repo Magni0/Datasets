@@ -1,0 +1,362 @@
+[
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 1,
+        "fields": {
+            "provider": 2,
+            "max_group_size": 5,
+            "price_per_head": 192,
+            "additional_guests_price": 190
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 2,
+        "fields": {
+            "provider": 3,
+            "max_group_size": 2,
+            "price_per_head": 195,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 3,
+        "fields": {
+            "provider": 6,
+            "max_group_size": 2,
+            "price_per_head": 287,
+            "additional_guests_price": 159
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 4,
+        "fields": {
+            "provider": 9,
+            "max_group_size": 2,
+            "price_per_head": 192,
+            "additional_guests_price": 111
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 5,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 5,
+            "price_per_head": 78,
+            "additional_guests_price": 145
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 6,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 4,
+            "price_per_head": 61,
+            "additional_guests_price": 137
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 7,
+        "fields": {
+            "provider": 15,
+            "max_group_size": 7,
+            "price_per_head": 423,
+            "additional_guests_price": 101
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 8,
+        "fields": {
+            "provider": 17,
+            "max_group_size": 7,
+            "price_per_head": 56,
+            "additional_guests_price": 170
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 9,
+        "fields": {
+            "provider": 18,
+            "max_group_size": 6,
+            "price_per_head": 480,
+            "additional_guests_price": 198
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 10,
+        "fields": {
+            "provider": 19,
+            "max_group_size": 1,
+            "price_per_head": 489,
+            "additional_guests_price": 183
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 11,
+        "fields": {
+            "provider": 21,
+            "max_group_size": 5,
+            "price_per_head": 300,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 12,
+        "fields": {
+            "provider": 24,
+            "max_group_size": 1,
+            "price_per_head": 88,
+            "additional_guests_price": 199
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 13,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 4,
+            "price_per_head": 222,
+            "additional_guests_price": 189
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 14,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 1,
+            "price_per_head": 126,
+            "additional_guests_price": 154
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 15,
+        "fields": {
+            "provider": 32,
+            "max_group_size": 3,
+            "price_per_head": 311,
+            "additional_guests_price": 126
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 16,
+        "fields": {
+            "provider": 34,
+            "max_group_size": 6,
+            "price_per_head": 431,
+            "additional_guests_price": 178
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 17,
+        "fields": {
+            "provider": 41,
+            "max_group_size": 5,
+            "price_per_head": 186,
+            "additional_guests_price": 143
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 18,
+        "fields": {
+            "provider": 42,
+            "max_group_size": 6,
+            "price_per_head": 250,
+            "additional_guests_price": 185
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 19,
+        "fields": {
+            "provider": 45,
+            "max_group_size": 2,
+            "price_per_head": 92,
+            "additional_guests_price": 145
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 20,
+        "fields": {
+            "provider": 55,
+            "max_group_size": 4,
+            "price_per_head": 244,
+            "additional_guests_price": 198
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 21,
+        "fields": {
+            "provider": 56,
+            "max_group_size": 2,
+            "price_per_head": 319,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 22,
+        "fields": {
+            "provider": 67,
+            "max_group_size": 1,
+            "price_per_head": 245,
+            "additional_guests_price": 146
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 23,
+        "fields": {
+            "provider": 68,
+            "max_group_size": 7,
+            "price_per_head": 229,
+            "additional_guests_price": 175
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 24,
+        "fields": {
+            "provider": 69,
+            "max_group_size": 2,
+            "price_per_head": 447,
+            "additional_guests_price": 136
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 25,
+        "fields": {
+            "provider": 73,
+            "max_group_size": 5,
+            "price_per_head": 133,
+            "additional_guests_price": 171
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 26,
+        "fields": {
+            "provider": 85,
+            "max_group_size": 5,
+            "price_per_head": 323,
+            "additional_guests_price": 101
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 27,
+        "fields": {
+            "provider": 86,
+            "max_group_size": 3,
+            "price_per_head": 322,
+            "additional_guests_price": 148
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 28,
+        "fields": {
+            "provider": 92,
+            "max_group_size": 6,
+            "price_per_head": 362,
+            "additional_guests_price": 185
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 29,
+        "fields": {
+            "provider": 94,
+            "max_group_size": 3,
+            "price_per_head": 278,
+            "additional_guests_price": 187
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 30,
+        "fields": {
+            "provider": 95,
+            "max_group_size": 3,
+            "price_per_head": 338,
+            "additional_guests_price": 103
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 31,
+        "fields": {
+            "provider": 97,
+            "max_group_size": 2,
+            "price_per_head": 223,
+            "additional_guests_price": 196
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 32,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 1,
+            "price_per_head": 77,
+            "additional_guests_price": 194
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 33,
+        "fields": {
+            "provider": 100,
+            "max_group_size": 1,
+            "price_per_head": 377,
+            "additional_guests_price": 186
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 34,
+        "fields": {
+            "provider": 105,
+            "max_group_size": 4,
+            "price_per_head": 143,
+            "additional_guests_price": 150
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 35,
+        "fields": {
+            "provider": 113,
+            "max_group_size": 7,
+            "price_per_head": 128,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.snowboardingbackcountryservice",
+        "pk": 36,
+        "fields": {
+            "provider": 117,
+            "max_group_size": 7,
+            "price_per_head": 158,
+            "additional_guests_price": 186
+        }
+    }
+]

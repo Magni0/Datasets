@@ -1,0 +1,422 @@
+[
+    {
+        "model": "db.walkingtourservice",
+        "pk": 1,
+        "fields": {
+            "provider": 4,
+            "max_group_size": 2,
+            "price_per_head": 54,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 2,
+        "fields": {
+            "provider": 8,
+            "max_group_size": 4,
+            "price_per_head": 449,
+            "additional_guests_price": 159
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 3,
+        "fields": {
+            "provider": 10,
+            "max_group_size": 6,
+            "price_per_head": 101,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 4,
+        "fields": {
+            "provider": 11,
+            "max_group_size": 6,
+            "price_per_head": 420,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 5,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 7,
+            "price_per_head": 202,
+            "additional_guests_price": 131
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 6,
+        "fields": {
+            "provider": 21,
+            "max_group_size": 2,
+            "price_per_head": 278,
+            "additional_guests_price": 131
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 7,
+        "fields": {
+            "provider": 31,
+            "max_group_size": 2,
+            "price_per_head": 295,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 8,
+        "fields": {
+            "provider": 33,
+            "max_group_size": 2,
+            "price_per_head": 298,
+            "additional_guests_price": 115
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 9,
+        "fields": {
+            "provider": 34,
+            "max_group_size": 7,
+            "price_per_head": 220,
+            "additional_guests_price": 179
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 10,
+        "fields": {
+            "provider": 36,
+            "max_group_size": 3,
+            "price_per_head": 221,
+            "additional_guests_price": 102
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 11,
+        "fields": {
+            "provider": 37,
+            "max_group_size": 7,
+            "price_per_head": 87,
+            "additional_guests_price": 129
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 12,
+        "fields": {
+            "provider": 38,
+            "max_group_size": 3,
+            "price_per_head": 153,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 13,
+        "fields": {
+            "provider": 39,
+            "max_group_size": 7,
+            "price_per_head": 183,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 14,
+        "fields": {
+            "provider": 41,
+            "max_group_size": 2,
+            "price_per_head": 291,
+            "additional_guests_price": 194
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 15,
+        "fields": {
+            "provider": 45,
+            "max_group_size": 2,
+            "price_per_head": 212,
+            "additional_guests_price": 154
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 16,
+        "fields": {
+            "provider": 46,
+            "max_group_size": 1,
+            "price_per_head": 439,
+            "additional_guests_price": 197
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 17,
+        "fields": {
+            "provider": 47,
+            "max_group_size": 2,
+            "price_per_head": 217,
+            "additional_guests_price": 145
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 18,
+        "fields": {
+            "provider": 51,
+            "max_group_size": 4,
+            "price_per_head": 160,
+            "additional_guests_price": 101
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 19,
+        "fields": {
+            "provider": 55,
+            "max_group_size": 1,
+            "price_per_head": 65,
+            "additional_guests_price": 197
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 20,
+        "fields": {
+            "provider": 57,
+            "max_group_size": 3,
+            "price_per_head": 252,
+            "additional_guests_price": 135
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 21,
+        "fields": {
+            "provider": 61,
+            "max_group_size": 4,
+            "price_per_head": 373,
+            "additional_guests_price": 141
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 22,
+        "fields": {
+            "provider": 64,
+            "max_group_size": 2,
+            "price_per_head": 277,
+            "additional_guests_price": 133
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 23,
+        "fields": {
+            "provider": 65,
+            "max_group_size": 1,
+            "price_per_head": 184,
+            "additional_guests_price": 113
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 24,
+        "fields": {
+            "provider": 68,
+            "max_group_size": 7,
+            "price_per_head": 62,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 25,
+        "fields": {
+            "provider": 71,
+            "max_group_size": 7,
+            "price_per_head": 327,
+            "additional_guests_price": 136
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 26,
+        "fields": {
+            "provider": 74,
+            "max_group_size": 2,
+            "price_per_head": 266,
+            "additional_guests_price": 170
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 27,
+        "fields": {
+            "provider": 75,
+            "max_group_size": 4,
+            "price_per_head": 96,
+            "additional_guests_price": 185
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 28,
+        "fields": {
+            "provider": 76,
+            "max_group_size": 3,
+            "price_per_head": 105,
+            "additional_guests_price": 129
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 29,
+        "fields": {
+            "provider": 81,
+            "max_group_size": 6,
+            "price_per_head": 147,
+            "additional_guests_price": 168
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 30,
+        "fields": {
+            "provider": 84,
+            "max_group_size": 3,
+            "price_per_head": 106,
+            "additional_guests_price": 193
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 31,
+        "fields": {
+            "provider": 87,
+            "max_group_size": 7,
+            "price_per_head": 339,
+            "additional_guests_price": 143
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 32,
+        "fields": {
+            "provider": 89,
+            "max_group_size": 5,
+            "price_per_head": 477,
+            "additional_guests_price": 122
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 33,
+        "fields": {
+            "provider": 91,
+            "max_group_size": 5,
+            "price_per_head": 317,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 34,
+        "fields": {
+            "provider": 92,
+            "max_group_size": 5,
+            "price_per_head": 64,
+            "additional_guests_price": 143
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 35,
+        "fields": {
+            "provider": 93,
+            "max_group_size": 7,
+            "price_per_head": 62,
+            "additional_guests_price": 104
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 36,
+        "fields": {
+            "provider": 96,
+            "max_group_size": 1,
+            "price_per_head": 136,
+            "additional_guests_price": 115
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 37,
+        "fields": {
+            "provider": 100,
+            "max_group_size": 6,
+            "price_per_head": 338,
+            "additional_guests_price": 101
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 38,
+        "fields": {
+            "provider": 105,
+            "max_group_size": 6,
+            "price_per_head": 424,
+            "additional_guests_price": 163
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 39,
+        "fields": {
+            "provider": 107,
+            "max_group_size": 3,
+            "price_per_head": 63,
+            "additional_guests_price": 165
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 40,
+        "fields": {
+            "provider": 114,
+            "max_group_size": 1,
+            "price_per_head": 340,
+            "additional_guests_price": 126
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 41,
+        "fields": {
+            "provider": 116,
+            "max_group_size": 3,
+            "price_per_head": 497,
+            "additional_guests_price": 180
+        }
+    },
+    {
+        "model": "db.walkingtourservice",
+        "pk": 42,
+        "fields": {
+            "provider": 117,
+            "max_group_size": 2,
+            "price_per_head": 358,
+            "additional_guests_price": 192
+        }
+    }
+]

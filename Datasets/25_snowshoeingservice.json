@@ -1,0 +1,282 @@
+[
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 1,
+        "fields": {
+            "provider": 7,
+            "max_group_size": 1,
+            "price_per_head": 280,
+            "additional_guests_price": 197
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 2,
+        "fields": {
+            "provider": 13,
+            "max_group_size": 6,
+            "price_per_head": 109,
+            "additional_guests_price": 186
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 3,
+        "fields": {
+            "provider": 14,
+            "max_group_size": 7,
+            "price_per_head": 112,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 4,
+        "fields": {
+            "provider": 20,
+            "max_group_size": 4,
+            "price_per_head": 443,
+            "additional_guests_price": 199
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 5,
+        "fields": {
+            "provider": 23,
+            "max_group_size": 6,
+            "price_per_head": 289,
+            "additional_guests_price": 196
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 6,
+        "fields": {
+            "provider": 24,
+            "max_group_size": 6,
+            "price_per_head": 64,
+            "additional_guests_price": 174
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 7,
+        "fields": {
+            "provider": 27,
+            "max_group_size": 7,
+            "price_per_head": 367,
+            "additional_guests_price": 172
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 8,
+        "fields": {
+            "provider": 28,
+            "max_group_size": 3,
+            "price_per_head": 399,
+            "additional_guests_price": 110
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 9,
+        "fields": {
+            "provider": 32,
+            "max_group_size": 4,
+            "price_per_head": 215,
+            "additional_guests_price": 171
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 10,
+        "fields": {
+            "provider": 36,
+            "max_group_size": 2,
+            "price_per_head": 163,
+            "additional_guests_price": 173
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 11,
+        "fields": {
+            "provider": 37,
+            "max_group_size": 6,
+            "price_per_head": 332,
+            "additional_guests_price": 149
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 12,
+        "fields": {
+            "provider": 38,
+            "max_group_size": 6,
+            "price_per_head": 500,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 13,
+        "fields": {
+            "provider": 39,
+            "max_group_size": 4,
+            "price_per_head": 84,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 14,
+        "fields": {
+            "provider": 51,
+            "max_group_size": 7,
+            "price_per_head": 398,
+            "additional_guests_price": 196
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 15,
+        "fields": {
+            "provider": 56,
+            "max_group_size": 7,
+            "price_per_head": 273,
+            "additional_guests_price": 181
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 16,
+        "fields": {
+            "provider": 57,
+            "max_group_size": 6,
+            "price_per_head": 162,
+            "additional_guests_price": 140
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 17,
+        "fields": {
+            "provider": 58,
+            "max_group_size": 6,
+            "price_per_head": 170,
+            "additional_guests_price": 141
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 18,
+        "fields": {
+            "provider": 77,
+            "max_group_size": 3,
+            "price_per_head": 205,
+            "additional_guests_price": 200
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 19,
+        "fields": {
+            "provider": 80,
+            "max_group_size": 3,
+            "price_per_head": 453,
+            "additional_guests_price": 169
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 20,
+        "fields": {
+            "provider": 81,
+            "max_group_size": 6,
+            "price_per_head": 442,
+            "additional_guests_price": 112
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 21,
+        "fields": {
+            "provider": 89,
+            "max_group_size": 4,
+            "price_per_head": 385,
+            "additional_guests_price": 138
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 22,
+        "fields": {
+            "provider": 95,
+            "max_group_size": 6,
+            "price_per_head": 241,
+            "additional_guests_price": 116
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 23,
+        "fields": {
+            "provider": 96,
+            "max_group_size": 1,
+            "price_per_head": 478,
+            "additional_guests_price": 195
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 24,
+        "fields": {
+            "provider": 99,
+            "max_group_size": 3,
+            "price_per_head": 153,
+            "additional_guests_price": 174
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 25,
+        "fields": {
+            "provider": 104,
+            "max_group_size": 2,
+            "price_per_head": 193,
+            "additional_guests_price": 120
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 26,
+        "fields": {
+            "provider": 106,
+            "max_group_size": 7,
+            "price_per_head": 255,
+            "additional_guests_price": 189
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 27,
+        "fields": {
+            "provider": 115,
+            "max_group_size": 7,
+            "price_per_head": 90,
+            "additional_guests_price": 132
+        }
+    },
+    {
+        "model": "db.snowshoeingservice",
+        "pk": 28,
+        "fields": {
+            "provider": 117,
+            "max_group_size": 4,
+            "price_per_head": 55,
+            "additional_guests_price": 128
+        }
+    }
+]

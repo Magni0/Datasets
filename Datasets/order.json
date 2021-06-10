@@ -1,0 +1,24 @@
+[
+    {
+        "model": "db.order",
+        "pk": 1,
+        "fields": {
+            "payment_detail_id": 1,
+            "user_id": 2,
+            "service_charge": 5.0,
+            "status": "accepted",
+            "created_date": "2008-02-12"
+        }
+    },
+    {
+        "model": "db.order",
+        "pk": 2,
+        "fields": {
+            "payment_detail_id": 2,
+            "user_id": 2,
+            "service_charge": 5.0,
+            "status": "declined",
+            "created_date": "1987-04-25"
+        }
+    }
+]
