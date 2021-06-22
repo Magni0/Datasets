@@ -10,22 +10,35 @@ dataset = []
 with open("Datasets/messageroom.json", "r") as file:
     message_rooms = json.loads(file.read())
 
-for i in range(1, 1000):
-    message_room = random.choice(message_rooms)
-
-    message_room_id = message_room['pk']
-    send_user_id = message_room['fields']['sender_user_id']
-
-    dataset.append({
-        "model": "db.message",
-        "pk": i,
-        "fields": {
-            "user_id": send_user_id,
-            "message_room_id": message_room_id,
-            "message_content": fake.sentence(),
-            "created_time": str(fake.date_time(tzinfo=pytz.UTC)),
-        }
-    })
+pk = 1
+for message_room in message_rooms:
+    for sender in range(random.randint(1, 5)):
+        dataset.append({
+            "model": "db.message",
+            "pk": pk,
+            "fields": {
+                "user_id": message_room['fields']['sender_user_id'],
+                "message_room_id": message_room['pk'],
+                "message_content": fake.sentence(),
+                "created_time": str(fake.date_time(tzinfo=pytz.UTC)),
+            }
+        })
+        
+        pk += 1
+    
+    for reciver in range(random.randint(1, 5)):
+        dataset.append({
+            "model": "db.message",
+            "pk": pk,
+            "fields": {
+                "user_id": message_room['fields']['reciever_user_id'],
+                "message_room_id": message_room['pk'],
+                "message_content": fake.sentence(),
+                "created_time": str(fake.date_time(tzinfo=pytz.UTC)),
+            }
+        })
+        
+        pk += 1
 
 with open("Datasets/messages.json", 'w') as file:
     file.write(json.dumps(dataset))
