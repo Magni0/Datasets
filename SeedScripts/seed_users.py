@@ -58,5 +58,32 @@ for user in emails:
 
     primary_key += 1
 
-with open("Datasets/user.json", 'w') as file:
+dataset.append({
+        "model": "db.user",
+        "pk": primary_key,
+        "fields": {
+            "password": pbkdf2_sha256.hash('admin'),
+            "last_login": str(fake.date_time(tzinfo=pytz.UTC)),
+            "is_superuser": True,
+            "email": "admin@resorter.app",
+            "first_name": "Admin",
+            "last_name": "Resorter",
+            "bio": fake.sentence(),
+            "gender": random.choice(genders),
+            "dob": str(fake.date()),
+            "mobile_number": random.choice(phone_numbers),
+            "profile_picture": random.choice(image_links),
+            "country": random.choice(range(1, 74)),
+            "is_active": bool(random.getrandbits(1)),
+            "is_staff": True,
+            "skiing_level": random.choice(range(8)),
+            "snowboarding_level": random.choice(range(8)),
+            "signup_step": random.choice(range(1, 5)),
+            "groups": [],
+            "user_permissions": [],
+            "languages": rand_list,
+        }
+})
+
+with open("Datasets/05_user.json", 'w') as file:
     file.write(json.dumps(dataset))
